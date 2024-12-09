@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "759526813691",
+    "project_id": "app-journal-d818e",
+    "storage_bucket": "app-journal-d818e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759526813691:android:91657c43170eae5eb0e55e",
+        "android_client_info": {
+          "package_name": "com.example.app_journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3P8yRIj_PavC6P-U2apSDizofqdPebVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759526813691:android:19d9198fdc468aaeb0e55e",
+        "android_client_info": {
+          "package_name": "com.example.try_joural_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3P8yRIj_PavC6P-U2apSDizofqdPebVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
